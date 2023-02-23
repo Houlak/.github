@@ -21,6 +21,8 @@ Make sure you've checked all the following items.
 - [ ] This PR can be merged by anyone after 2 approvals
 - [ ] This PR can only be merged by the author
 
+⚠️‼️ If you're merging into a `base` branch type, do not squash merge!!! Do a regular merge commit instead. Squash merge should only be used when merging to `dev`.
+
 
 ## Visual Documentation (if needed)
 * If visuals are a part of this PR, include before and/or after screenshots or recordings.
