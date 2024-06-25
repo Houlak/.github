@@ -10,7 +10,6 @@
 ## Pull Request checker
 Make sure you've checked all the following items.
 - [ ] The PR has the following format title `[ClickUp - #CardID] - #Card title` Example: `[ClickUp - 25] - Apple Sign In`
-- [ ] The PR is using the description template
 - [ ] You've assigned the PR to yourself
 - [ ] You've requested at least two reviewers
 - [ ] You've set the correct labels (`bugfix`, `enhancement`, `feature`, etc.)
